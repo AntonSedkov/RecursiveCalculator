@@ -1,0 +1,8 @@
+.classpath
+.project
+.gitattributes
+.idea/*
+/target/*
+/bin/*
+/out/*
+*.iml
